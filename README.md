@@ -41,7 +41,8 @@ http://127.0.0.1:5000
 ```
 
 ## 📸 Output
-Predicts whether the patient is diabetic or not based on input values.
+Predicts whether the patient is diabetic or not based on input values. <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/8edf3bb4-e291-461f-a769-18bb2c62012f" />
+
 
 ## 👨‍💻 Author
 Sumit Khaire
